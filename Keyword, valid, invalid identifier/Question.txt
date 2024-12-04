@@ -1,0 +1,12 @@
+1. Write a C program that checks whether a given string is a keyword, a valid identifier, 
+or an invalid identifier.
+
+Input: Test Case: 3
+if
+var1
+1var
+
+Output:
+keyword 
+valid identifier
+invalid identifier
