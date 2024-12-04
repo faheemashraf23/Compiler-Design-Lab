@@ -1,0 +1,6 @@
+1. Generate intermediate code(three address code) for arithmatic expression in c.
+input: ab+cd-*
+output:
+    t1=a+b
+    t2=c-d
+    t3=t1*t2
